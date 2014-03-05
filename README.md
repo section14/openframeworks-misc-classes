@@ -1,4 +1,4 @@
 openframeworks
 ==============
 
-OpenFrameworks libraries
+OpenFrameworks libraries for use and learning
