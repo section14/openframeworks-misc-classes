@@ -46,7 +46,7 @@ cube::cube(float _w, float _h, float _d, float _cubeHue)
 void cube::draw()
 {
     myVbo.drawElements(GL_QUADS, 24);
-;}
+}
 
 void cube::update()
 {
